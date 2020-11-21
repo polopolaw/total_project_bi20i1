@@ -1,6 +1,6 @@
 #include <iostream>
 
-
+//comment
 int main(int argc, char* argv[])
 {
 	setlocale(LC_ALL, "Rus");
